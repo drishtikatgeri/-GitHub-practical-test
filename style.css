@@ -1,0 +1,32 @@
+body {
+    background-color: #f5f0fa;
+    font-family: Arial;
+    text-align: center;
+    margin: 30px;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: #7040a0;
+}
+
+p {
+    color: #333333;
+    font-size: 16px;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+button {
+    background-color: purple;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
