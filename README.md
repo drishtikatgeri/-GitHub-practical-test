@@ -1,32 +1,11 @@
 
-# GITHUB PRACTICAL TEST
 
-## Student Details
+# GitHub Practical Test
 
-- Full Name: Drishti Katgeri
-- URN Number: Your URN
-- Semester: Your Semester
-- Section: Your Section
-- Subject: Git and GitHub
+| Full Name | URN Number | Semester |
+|---|---|---|
+| Drishti Katgeri | Your URN | Your Semester |
 
-## About the Project
-
-This is my personal portfolio website.
-
-## Technologies Used
-
-1. HTML
-2. CSS
-3. JavaScript
-
-## Features
-
-- About Me section
-- Skills section
-- Projects section
-- Contact information
-- Interactive button
-
-## Author
-
-Drishti Katgeri
+| Section | Subject |
+|---|---|
+| Your Section | Git and GitHub |
