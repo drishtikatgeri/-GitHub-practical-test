@@ -4,8 +4,8 @@
 
 | Full Name | URN Number | Semester |
 |---|---|---|
-| Drishti Katgeri | Your URN | Your Semester |
+| Drishti Katgeri | E25B031644 | Third semester |
 
 | Section | Subject |
 |---|---|
-| Your Section | Git and GitHub |
+| Section - B | Git and GitHub |
