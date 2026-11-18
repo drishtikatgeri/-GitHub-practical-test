@@ -1,8 +1,20 @@
+
 body {
     background-color: #f5f0fa;
     font-family: Arial;
     text-align: center;
     margin: 30px;
+}
+
+nav {
+    background-color: purple;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
 }
 
 h1 {
@@ -29,4 +41,15 @@ button {
     padding: 10px;
     border: none;
     cursor: pointer;
+}
+
+footer {
+    background-color: purple;
+    color: white;
+    padding: 15px;
+    margin-top: 30px;
+}
+
+footer p {
+    color: white;
 }
